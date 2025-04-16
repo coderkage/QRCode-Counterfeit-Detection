@@ -1,4 +1,4 @@
-# QR Code Print Authentication
+# QR Code Counterfeit Detection
 
 This project implements various computer vision, machine learning, and deep learning techniques to differentiate between original (first print) and counterfeit (second print) QR codes. It includes:
 1. data preprocessing
