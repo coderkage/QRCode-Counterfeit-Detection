@@ -12,8 +12,8 @@ This project implements various computer vision, machine learning, and deep lear
 
 1\. Clone the Repository: 
 ```
-git clone https://github.com/coderkage/Alemeno-QRCode-Assignment.git
-cd Alemeno-QRCode-Assignment
+git clone https://github.com/coderkageQRCode-Counterfeit-Detection.git
+cd QRCode-Counterfeit-Detection
 ```
 
 2\. Install Dependencies: 
